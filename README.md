@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, World!<br><br>My name is Andrej Trožić <br>and I'm an IT enthusiast who is also a 3rd year<br>Software Engineering student at<br>Faculty of Electrical Engineering at Banja Luka University. <br><br>
+Hello, World!
 
 
 ## 🌐 Socials:
